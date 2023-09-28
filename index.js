@@ -51,8 +51,7 @@ const questions = [
 // TODO: Create a function to write README file
 function writeToFile(fileName, data) {
     fs.writeFileSync(fileName, data, (err) => {
-        if (err) throw err;
-        console.log('README.md has been generated!');
+        err ? console.error(err) : console.log("Generated README.md!")
     });
 }
 
