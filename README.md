@@ -1,9 +1,9 @@
 
-# 06-ReadMe-Generator [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# 06-Readme-Generator [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
 
-This project is a ReadMe generator that uses inquirer and node.js to prompt the user for the title, description, installation instructions, usage information, license, contribution section, github, and email the user wants to be in the readme files. It will then generate a read me file in mark down with the user input. 
+This project is a ReadMe generator that uses inquirer and node.js to prompt the user for the title, description, installation instructions, usage information, license, contribution section, github, and email the user wants to be in the readme files. It will then generate a read me file in mark down with the user input.
 
 ## Table of Contents
 
@@ -24,16 +24,12 @@ To use just run node index.js in the root directory of this project and answer t
 
 ## License
 
-MIT
+This project is licensed under the [MIT](https://opensource.org/licenses/MIT) license.
 
 ## Contributing
 
-
-
-## Tests
-
-
+Coded by github.com/n8hoang
 
 ## Questions
 
-For questions, reach out to me on [GitHub](https://github.com/n8hoang) or email me at sliqq123@gmail.com.
+For questions, reach out to me on [GitHub](https://github.com/n8hoang) or email me at natehoang911@gmail.com.
