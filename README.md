@@ -21,7 +21,9 @@ To run this project you need to clone this project to your local machine and hav
 ## Usage
 
 To use just run node index.js in the root directory of this project and answer the prompted questions.
-[Untitled_ Sep 27, 2023 7_41 PM.webm](https://github.com/n8hoang/09-challenge-ReadMe-gen/assets/131079293/63bc33c3-d121-458c-9864-c0dc4f58c24d)
+[Demo][https://github.com/n8hoang/09-challenge-ReadMe-gen/assets/131079293/eaf39904-c4a3-4e48-bf02-f3a6362bcae5]
+
+
 ## License
 
 This project is licensed under the [MIT](https://opensource.org/licenses/MIT) license.
