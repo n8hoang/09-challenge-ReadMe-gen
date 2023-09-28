@@ -21,8 +21,7 @@ To run this project you need to clone this project to your local machine and hav
 ## Usage
 
 To use just run node index.js in the root directory of this project and answer the prompted questions.
-[Demo][https://github.com/n8hoang/09-challenge-ReadMe-gen/assets/131079293/eaf39904-c4a3-4e48-bf02-f3a6362bcae5]
-
+[Demo](https://github.com/n8hoang/09-challenge-ReadMe-gen/assets/131079293/eaf39904-c4a3-4e48-bf02-f3a6362bcae5)
 
 ## License
 
