@@ -16,7 +16,7 @@ This project is a ReadMe generator that uses inquirer and node.js to prompt the 
 
 ## Installation
 
-To run this project you need to clone this project to your local machine and have node.js installed. Once you have that you can go to the root directory of the project in your terminal and run node index.js.
+To run this project you need to clone this project to your local machine and have node.js installed. Once you have that you can go to the root directory of the project in your terminal and run npm install. After install the required packages you can run the script by typing node index.js.
 
 ## Usage
 
