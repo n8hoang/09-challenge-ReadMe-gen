@@ -68,6 +68,10 @@ ${renderLicenseSection(data.license)}
 
 ${data.contributing}
 
+## Tests
+
+${data.tests}
+
 ## Questions
 
 For questions, reach out to me on [GitHub](https://github.com/${data.github}) or email me at ${data.email}.
